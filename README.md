@@ -3,7 +3,7 @@
 Bienvenue sur mon portfolio en ligne !  
 Découvrez mes projets, mon parcours professionnel, mes formations et certifications.
 
-🌐 **Voir le portfolio en ligne** : [https://tom-rib.github.io/Portfolio_Tom_Ribero/](https://tom-rib.github.io/Portfolio_Tom_Ribero/)
+🌐 **Voir le portfolio en ligne** : [https://tom-rib.github.io/Portfolio/](https://tom-rib.github.io/Portfolio/)
 
 
 🌟 **À propos**  
